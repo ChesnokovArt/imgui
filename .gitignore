@@ -18,7 +18,7 @@ bin-int
 
 ## Visual Studio artifacts
 .vs
-*.vsxproj
+*.vcxproj
 ipch
 *.opensdf
 *.log
